@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1>SCSS Test</h1>
-    <p>hello</p>
+    <p>hiho</p>
   </div>
 </template>
 
